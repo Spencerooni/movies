@@ -1,4 +1,14 @@
 die hard
 shawshank redemption
 the jungle book
+<<<<<<< HEAD
 lion king
+fight club 
+return of the jedi 
+starship troopers 2 
+
+=======
+Fight Club 
+Return of the Jedi 
+Starship Troopers 2
+>>>>>>> 50b31ea4af40ee31e5d8d9079849108309fc8972
