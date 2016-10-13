@@ -1,11 +1,10 @@
-The Room
+
 Transporter
 die hard
 shawshank redemption
 the jungle book
 lion king
 Warrior
-The Karate Kid
 the fault in our stars
 Happy feet
 shrek
@@ -22,9 +21,4 @@ Lord Of The Rings Return Of The King
 Straight outta compton
 Saving private ryan
 aladdin
-<<<<<<< HEAD
 Da Vinci Code
-=======
-50 shades of Grey
-Star Wars
->>>>>>> 43cd94afca0bdf899658883a2aab83b6454fc37c
