@@ -77,6 +77,7 @@ finding nemo
 ET
 Batman
 Gladiator
+benjamin button
 Bambi
 fight club
 frozen
@@ -85,6 +86,8 @@ Lord Of The Rings Return Of The King
 Straight outta compton
 Saving private ryan
 aladdin
+The Mechanic
+Stand By Me
 American X
 50 shades of Grey
 Star Wars
