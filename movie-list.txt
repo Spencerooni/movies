@@ -23,6 +23,7 @@ Saving private ryan
 aladdin
 The Mechanic
 Stand By Me
+American X
 50 shades of Grey
 Star Wars
 Da Vinci Code
@@ -35,4 +36,5 @@ Star Wars
 The Empire Strikes Back
 The Hobbit
 Beauty and the beast
+The Hunger Games
 
