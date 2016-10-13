@@ -1,34 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Transporter
 die hard
 shawshank redemption
@@ -37,47 +7,12 @@ lion king
 Warrior
 the fault in our stars
 Happy feet
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 shrek
 nanny mcphee
 finding nemo
 ET
 Batman
 Gladiator
-benjamin button
 Bambi
 fight club
 frozen
@@ -86,9 +21,6 @@ Lord Of The Rings Return Of The King
 Straight outta compton
 Saving private ryan
 aladdin
-American X
-50 shades of Grey
-Star Wars
 Da Vinci Code
 Harold & Maud
 The Room
@@ -99,5 +31,5 @@ Star Wars
 The Empire Strikes Back
 The Hobbit
 Beauty and the beast
-Wall-e
-The Hunger Games
+Angels & Demons
+
